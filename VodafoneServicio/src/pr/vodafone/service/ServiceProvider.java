@@ -74,6 +74,7 @@ public class ServiceProvider {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		System.out.println(terminalInsertado);
 		return terminalInsertado;
 	}
 	
